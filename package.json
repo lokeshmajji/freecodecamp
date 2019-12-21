@@ -1,4 +1,5 @@
 {
+  "name" : "First Node App",
   "author": "Lokesh Majji",
   "description": "A project that does something awesome",
   "keywords": [ "freecodecamp", "related", "words" ],
