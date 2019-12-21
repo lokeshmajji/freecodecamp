@@ -1,4 +1,12 @@
 {
   "author": "Lokesh Majji",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [ "freecodecamp", "related", "words" ],
+  "license": "MIT",
+  "version": "2.10.2",
+  "dependencies": {
+      "package-name": "moment",
+      "express": "^2.14.0"
+   }
+
 }
